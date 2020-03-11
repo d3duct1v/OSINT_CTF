@@ -9,3 +9,6 @@ What US political party does James over here support?
 
 <h2>Flag:</h2> 
 Democrat
+
+<h3> How? </h3>
+Placeholder
