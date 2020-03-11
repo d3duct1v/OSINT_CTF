@@ -25,4 +25,4 @@ Going to maps.google.com, search for the stadium above: **Principality Stadium, 
 
 Correct the direction so that the directions are from the stadium.  Along the top select the `transit` radio button.  The first option has only 1 bus used With the line number next to the little bus.
 
--- image here --
+![Bus Route](images/bus_route.JPG)
