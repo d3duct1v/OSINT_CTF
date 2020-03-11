@@ -19,7 +19,7 @@ X1
 <h3>How?</h3>
 James liked the tweet Sarah made where she posted the information:
 
---image here -- 
+![Address in Tweet](OSINT_CTF/Life_Online/images/address_tweet.jpg)
 
 Going to maps.google.com, search for the stadium above: **Principality Stadium, Cardiff**.  Directions from the address located inside the Tweet.
 
