@@ -1,8 +1,11 @@
-Challenge: voteforme
+<h1> Challenge: voteforme</h1>
 
-Goto: https://twitter.com/jammymarkson
+<h2>Prompt:</h2> 
+https://twitter.com/jammymarkson
 
-Following Pres Obama & 
-Voice displeasure on Trump
+You'd have thought politics was a bit of a dry subject; not for some.
 
-Flag: Democrat
+What US political party does James over here support?
+
+<h2>Flag:</h2> 
+Democrat
