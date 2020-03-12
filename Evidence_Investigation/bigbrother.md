@@ -17,7 +17,7 @@ LIVE CAMERA FEED: http://81.82.201.132
 Belguim
 
 <h3>How?</h3>
-<p>When the camera feed (http://81.82.201.132) is accessed it opens a pan-tilt-zoom (PTZ) window where you can actually move the camera. The given IP can be put into whoisdomaintools http://whois.domaintools.com/ and it show the source of the IP is Belgium. Boom! <p/>
+<p>When the camera feed (http://81.82.201.132) is accessed it opens a pan-tilt-zoom (PTZ) window where you can actually move the camera. The given IP can be put into whoisdomaintools http://whois.domaintools.com/ and it shows the source of the IP is Belgium. Boom! <p/>
 
 
 ![Camera feed](images/Belguim_ptz.png)
