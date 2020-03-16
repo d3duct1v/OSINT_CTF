@@ -1,6 +1,7 @@
 <h1> Challenge: gunpowder </h1>
 
-<h2>Prompt: Our surveillance team has discovered another camera that has been left open to the world!
+<h2>Prompt:</h2> 
+Our surveillance team has discovered another camera that has been left open to the world!
 
 The microphone on this camera recently picked up the sound of gunfire from what we suspect to be the street outside. The team needs to confirm this.
 
@@ -8,7 +9,7 @@ Could you please find the NAME OF THE ROAD that runs outside the building this c
 
 LIVE CAMERA FEED: http://50.100.241.155:8081
 
-If you're having trouble viewing it, we've attached a screenshot of the camera in action.</h2> 
+If you're having trouble viewing it, we've attached a screenshot of the camera in action. 
 
 
 
