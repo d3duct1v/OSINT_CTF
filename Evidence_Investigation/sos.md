@@ -10,7 +10,7 @@ Can you please draw a conclusion on the attached transmission?
 GOLDENEAGLE
 
 <h3>How?</h3>
-Viewing the file: `--. --- .-.. -.. . -. . .- --. .-.. .`
+Viewing the file: --. --- .-.. -.. . -. . .- --. .-.. .
 
 Morse code!
 
