@@ -24,6 +24,7 @@ Red Blue
 <h3>How?</h3>
 Using the picture provided and the information inside the prompt.  Locating Google maps to find St Baruc's Church in Wales finds it in Barry, UK.  
 
+
 Using Street view starting at the intersection of Amherst and Archer moving down Amherst Cres you'll come across and annoyed gentleman holding his door.  
 
 ![This wanker](images/wanker.png)
